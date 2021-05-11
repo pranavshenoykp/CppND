@@ -1,4 +1,4 @@
-# Projects from Udacity Nanodegree
+# Projects from Udacity C++ Nanodegree
 
 ## Foundations: Projects
 
